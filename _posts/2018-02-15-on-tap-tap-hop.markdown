@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Ôn tập về tập hợp"
+subtitle: "Tụi mình đã biết những gì về tập hợp"
+date:   2018-02-15
+categories: [dai-so]
+permalink:
+cover:
+description:
+mathjax: true
+
+
+---
+
+# Mục tiêu
+
+- ### Nhớ lại những kiến thức về tập hợp.
+
+Nhìn vào hình vẽ, hít thở thật sâu, nhắm mắt lại xem tụi mình nhớ được chừng nào nhé.
+
+<center><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500px" version="1.1" content="&lt;mxfile userAgent=&quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36&quot; version=&quot;8.1.8&quot; editor=&quot;www.draw.io&quot; type=&quot;google&quot;&gt;&lt;diagram id=&quot;02ae40a0-77dc-3207-6f92-3f0da65f4e3e&quot; name=&quot;Page-1&quot;&gt;1VWxboMwEP0aj5EwhoQ1IWm7dKhSqbMDF0AymDqmkH59TTgHEKmKKmXIhP3u+Xz3nm0IC/PmWfEyfZUxCOI6cUPYlrguZf7KfFrk3CGB73VAorIYST2wz74BQQfRKovhNCJqKYXOyjEYyaKASI8wrpSsx7SjFONdS57ABNhHXEzRjyzWqe3C6fEXyJLU7kwdjOTckhE4pTyW9QBiO8JCJaXuRnkTgmjFs7p0655+iV4LU1DoOQtWXuy5QUTBPzDq+LBAZ764qLBZLFSfbfeJklWJNFAamlua84OlO9Oa6LVTc0RA5qDV2VAwkev73RI8HW6AKepea0aRkw50XjIkcvQ3uebuJTADVGGmIvSGIkthttwcpWloKM3ys5I2sDhdju3aEHynbPqgGSXt953sKNmsyXpbtn1cZhuyZqVNbyrtduj4Ex+MDUUMbdnUhOs007AvedRGa3PvDJbqXGD4mAkRSiGVmReygGvCGxYOrbp9QKbe/eUN9e/hjXsnb94qXgxMCVYP6Ym9P97M+3Mfj9idPCIhIwEt0svDgVeJPrJP3tx37j8+mWn/V7nEBv9mtvsB&lt;/diagram&gt;&lt;/mxfile&gt;" onclick="(function(svg){var src=window.event.target||window.event.srcElement;while (src!=null&amp;&amp;src.nodeName.toLowerCase()!='a'){src=src.parentNode;}if(src==null){if(svg.wnd!=null&amp;&amp;!svg.wnd.closed){svg.wnd.focus();}else{var r=function(evt){if(evt.data=='ready'&amp;&amp;evt.source==svg.wnd){svg.wnd.postMessage(decodeURIComponent(svg.getAttribute('content')),'*');window.removeEventListener('message',r);}};window.addEventListener('message',r);svg.wnd=window.open('https://www.draw.io/?client=1&amp;lightbox=1&amp;edit=_blank');}}})(this);" viewBox="0 0 317 632" style="cursor:pointer;max-width:100%;max-height:632px;"><defs/><g transform="translate(0.5,0.5)"><rect x="0" y="0" width="315" height="150" rx="22.5" ry="22.5" fill="none" stroke="#000000" pointer-events="none"/><g transform="translate(61.5,44.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="190" height="58" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 190px; white-space: nowrap; word-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;"><font style="font-size: 50px">Tập hợp</font></div></div></foreignObject><text x="95" y="35" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">&lt;font style="font-size: 50px"&gt;Tập hợp&lt;/font&gt;</text></switch></g><rect x="0" y="240" width="315" height="150" rx="22.5" ry="22.5" fill="none" stroke="#000000" pointer-events="none"/><g transform="translate(60.5,284.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="192" height="58" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 192px; white-space: nowrap; word-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;"><font style="font-size: 50px">Quan hệ</font></div></div></foreignObject><text x="96" y="35" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">&lt;font style="font-size: 50px"&gt;Quan hệ&lt;/font&gt;</text></switch></g><rect x="0" y="480" width="315" height="150" rx="22.5" ry="22.5" fill="none" stroke="#000000" pointer-events="none"/><g transform="translate(78.5,524.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="156" height="58" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 156px; white-space: nowrap; word-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;"><font style="font-size: 50px">Ánh xạ</font></div></div></foreignObject><text x="78" y="35" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">&lt;font style="font-size: 50px"&gt;Ánh xạ&lt;/font&gt;</text></switch></g></g></svg></center>
+
+
+Ted
